@@ -1,8 +1,8 @@
 # Applied Data Analytics: The Wedge Project
 
-Python, Jupyter Notebook, Google Big Query
+Tools: Python, Jupyter Notebook, Google Big Query
 
-File ____ contains code to complete each task 
+Files Task1.ipynb, Task2.ipynb, and Task3.ipynb contains code to complete each task 
 
 ## Task 1
 For task one, the following items are done:
