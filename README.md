@@ -8,6 +8,7 @@ File ____ contains code to complete each task
 For task one, the following items are done:
 - unzips the large .csv files 
 - cleans the files by removing nulls, placing headers on all files, and changing delimiters to comma separation
+- load .csv files to tables in GBQ
 
 ## Task 2
 In task two, the following items are completed:
