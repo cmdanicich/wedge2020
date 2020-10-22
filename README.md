@@ -18,9 +18,9 @@ In task two, the following items are completed:
 
 ## Task 3 
 In task three, we complete the following:
-- create a new database "__________(database name)"
+- create a new database "Wedge_Queries.db"
 - run the following three queries from GBQ 
   1. sales by date, by hour -show the total spend in the store, number of transactions, and the number of items sold
   2. sales by owner by year by month - show the sales by owners by date
   3. sales by product description by year by month - shows the total spend by prodcut description
-- each of these queries are placed into their own .txt file and uploaded the the new database, "_______(database name)"
+- each of these queries are placed into their own .txt file and uploaded the the new database, "Wedge_Queries.db"
