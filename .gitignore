@@ -1,3 +1,11 @@
+WedgeZipFiles.zip
+WedgeZipOfZips_Small.zip
+*.db
+*.sqbpro
+WedgeZipFiles/*
+
+
+
 # Byte-compiled / optimized / DLL files
 *.txt
 *.json
