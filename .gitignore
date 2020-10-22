@@ -1,4 +1,21 @@
 # Byte-compiled / optimized / DLL files
+*.txt
+*.json
+*.db
+*.sql
+WedgeZipFiles.zip
+WedgeZipFiles(1).zip
+WedgeZipFiles/*
+*.zip
+*.csv
+wedge/*
+wedge_clean/*
+WedgeZips/*
+*.sqbpro
+WedgeZipOfZips_Small.zip
+Wedge_zipofzip_small_test.ipynb
+
+# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
