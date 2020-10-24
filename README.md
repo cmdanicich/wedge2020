@@ -24,3 +24,43 @@ In task three, we complete the following:
   2. sales by owner by year by month - show the sales by owners by date
   3. sales by product description by year by month - shows the total spend by prodcut description
 - each of these queries are placed into their own .txt file and uploaded the the new database, "Wedge_Queries.db"
+
+## Feedback
+
+Your "submission.md" results are worrisomely different from mine. I'm wondering if one (or more) of your 
+files failed to upload. I'm sure the last thing you want to do is wade back into the heck of uploading
+files, so I'd like you to do a little QA to see if we can easily figure out what's wrong. (You won't
+have to fix it, but I'd like you to figure it out.) I'd suggest you do the following in R:
+
+1. Query your tables to get row counts by year and month. 
+1. Query my tables to get row counts by year and month.
+1. Bring these counts down to your computer and use ggplot to do a line plot
+   of both data sets. Can you figure out where the discrepancy is? 
+   
+This is non-trivial, but I think it'll reinforce the `dplyr` and `ggplot` work we're doing. Feel free
+to hit me up on Slack and I'll help you as you need. 
+
+### Part 1
+The code looks good and I can't see any reason why it wouldn't have worked. That's why I'm wondering if 
+the problem is some failed uploads. 
+
+### Part 2
+This one looks great.
+
+### Part 3
+This section is fine and doesn't need revision, but you handle the database in a weird way. Look
+at how many times you have these lines: 
+```
+db = sqlite3.connect("Wedge_Queries.db") 
+cur = db.cursor()
+```
+The first time you run them `db` has a connection to the DB and `cur` holds the cursor. You never close
+the connection, so these variables will work throughout. The fact that you keep reopening the connection
+doesn't hurt the code, but it makes me nervous you're on autopilot. Does it make sense why you
+only need it once? 
+
+### Overall
+
+Your code is complete, but I'd like to see the plot that shows records by year and month across
+the whole data set for this to be done. 
+
