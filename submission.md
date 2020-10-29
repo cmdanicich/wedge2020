@@ -26,7 +26,7 @@ Connects GBQ to python in order to build an "Owner" list. We then take a sample 
 
 ### Task 3
 
-* Files for this task: 
+Files for this task: 
 Task3.ipynb 
 
 Task3.ipynb: 
@@ -70,4 +70,4 @@ When calculating relative difference, use the formula
 | Fraction of Rows from Owners in that Year  |  .7372 | .7372  | 0  | 0  |
 
 ## Reflections
-While quite a roller coaster of emotions, this project has taught me to never give up.. as well as how to clean data files and use them to gain insightful analytics. Yes, the coding was challenging, but honestly just getting through it was even harder. There were many times I thought I should just use the 'B' code to make my life easier, but alas I am apparently a masochist. Through this self-discovery, I gained some pretty cool knowledge along the way. Working through the project was so *in the weeds* that I had a hard time reminding myself of what I was doing. After finishing and being able to take a step back, I realized the actual extent of what this project is and how it can be applied to work outside of the classroom. Do I see myself doing this work in my career? No. Am I happy that I now know and understand it? Of course. One thing that I am sure you have heard over and over again is the need for a Python pre-req for the MSBA program yet here I am telling you again that you NEED a python pre-req for the MSBA program. I think students will be much more successful with a background in the language and will take some weight off of your shoulders too. 
+While quite a roller coaster of emotions, this project has taught me how to clean data files, upload them to external databases, and then use them to gain insightful analytics. Yes, the coding was challenging, but honestly just getting through it was even harder. There were many times I thought I should just use the 'B' code to make my life easier, but alas I am apparently a masochist. Through this self-discovery, I gained some pretty cool knowledge along the way. Working through the project was so *in the weeds* at times that I had a hard time reminding myself of what I was doing. After finishing and being able to take a step back, I realized the actual extent of what this project is and how it can be applied to work outside of the classroom. One thing that I am sure you have heard over and over again is the need for a Python pre-req for the MSBA program yet here I am telling you again that you need a python pre-req for the MSBA program. I think students will be much more successful with a background in the language and will take some weight off of your shoulders too. 
