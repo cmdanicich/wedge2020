@@ -67,3 +67,9 @@ only need it once?
 Your code is complete, but I'd like to see the plot that shows records by year and month across
 the whole data set for this to be done. 
 
+## Feedback 2
+
+Excellent, thanks for doing that. Your QA basically tells us what happened (a duplicated upload, it appears). It'd be easy 
+enough to fix by deleting the existing tables and re-uploading. This is _exactly_ what data engineers do in real life,
+since things never go exactly as planned. Thanks for going through that exercise and you're now **complete** on the 
+Wedge! 🎉
