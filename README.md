@@ -4,6 +4,9 @@ Tools: Python, Jupyter Notebook, Google Big Query
 
 Files Task1.ipynb, Task2.ipynb, and Task3.ipynb contains code to complete each task 
 
+## *WEDGE DISCREPENCY* 
+I first queried the tables in GBQ then saved the data to a .csv file. I then uploaded that data into R. Using dplyr and ggplot, I created a scatterplot of my data points against yours to see where my outliers were. I then filtered the years by month to see the exact months that did not match up. This resulted in 2010 and 2012 creating some trouble, specifically in October, November, and December. In 2010, October, November, and December are double what your data points are. In 2012, October, November, and December are only off by a few thousands. The .csv file I used to upload the data into R is not in the repository because my gitignore isn't passing any .csv files through for obvious reasons.
+
 ## Task 1
 For task one, the following items are done:
 - unzips the large .csv files 
